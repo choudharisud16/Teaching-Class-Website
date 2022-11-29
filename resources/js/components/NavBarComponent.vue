@@ -24,7 +24,7 @@
                 </li>
                 <li class="nav-item">
                     <router-link class="nav-link" :to="{ name: 'ContactUsComponent'}">
-                        Extracuricullar
+                        Contact Us
                     </router-link>
                 </li>
             </ul>
